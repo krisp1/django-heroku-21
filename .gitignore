@@ -2,8 +2,5 @@ __pycache__
 *.py[cod]
 venv/
 *.sqlite3
-<<<<<<< HEAD
 .env
-=======
-.env
->>>>>>> c17a276f59a0bd7c57cc9cf6c0f375962eb6cb69
+
